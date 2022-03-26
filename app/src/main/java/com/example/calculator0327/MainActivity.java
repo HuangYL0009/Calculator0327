@@ -175,6 +175,7 @@ public class MainActivity extends AppCompatActivity {
                 break;
             default:
                 Log.e("MainActivity","ERROR");
+                break;
         }
     }
     @Override
